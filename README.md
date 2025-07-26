@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Saravanan 👋</h1>
+<h1 align="center">Hi there, I'm A B Saravanan 👋</h1>
 
 <p align="center">
-  <i>Senior Research Engineer | AI & ML Enthusiast | Open Source Contributor | Patent Holder</i><br/>
+  <i>ML Lead | LLM & AI Agents | Open Source Contributor | Patent Holder</i><br/>
   <a href="mailto:absaravananz@gmail.com">📧 absaravananz@gmail.com</a> • <a href="https://www.linkedin.com/in/saravanan-aadalarasan-bhavani/">LinkedIn</a>
 </p>
 
@@ -9,14 +9,14 @@
 
 ### 🧠 About Me
 
-I'm a **Machine Learning Lead in Generative AI & ML** currently working at **explai GmbH**, Germany. With over **8 years of professional experience** across domains like **fashion tech, computer vision, document intelligence, and autonomous driving**, I specialize in building scalable AI systems and MLOps platforms.
+I'm a **Machine Learning Lead** currently working at **explai GmbH**, Germany. With over **8 years of professional experience** across domains like **fashion tech, computer vision, document intelligence, and autonomous driving**, I specialize in building scalable AI systems and MLOps platforms.
 
 - 👨‍🎓 M.Sc. in Robotics Systems Engineering (AI & ML specialization) from RWTH Aachen University, Germany
 - 🎓 B.E. from Anna University, India
 - 📜 US Patent holder in Virtual Reality onboarding systems
 - 🧠 Hands-on with LLMs, VLMs, CLIP, diffusion models, transformers, and CV systems
 - 🌐 Experience across **BMW**, **Signzy AI**, and **TVS Motors**
-- 💡 Contributor to AI research, including **virtual try-ons**, **OCR systems**, and **visual search engines**
+- 💡 Contributor to AI research, including **AI Agents**, **OCR systems**, and **visual search engines**
 
 ---
 
@@ -38,9 +38,8 @@ I'm a **Machine Learning Lead in Generative AI & ML** currently working at **exp
 - 📦 LangGraph integrations for orchestrating tools and pipelines
 - 🔁 LLM fine-tuning for product content generation
 - 👗 AI-powered fashion cataloging and visual search
-- 🧵 Virtual try-on systems with diffusion and GAN models
+- 🧵 Virtual product photoshoots with diffusion models
 - 📚 Retrieval Augmented Generation (RAG) systems
-- 🎨 Virtual product photoshoots using stable-diffusion
 - 🤖 Background segmentation optimized for fashion datasets
 
 ---
