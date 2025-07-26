@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm A B Saravanan 👋</h1>
+<h1 align="center">Hi there, I'm Saravanan A B👋</h1>
 
 <p align="center">
   <i>ML Lead | LLM & AI Agents | Open Source Contributor | Patent Holder</i><br/>
