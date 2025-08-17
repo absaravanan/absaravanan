@@ -41,9 +41,9 @@ Monitoring      Metabase • Kibana • Grafana
 ## 💼 Professional Experience
 
 **explai GmbH** → *Current ML Lead*  
-**Signzy AI** → *Founding Engineer* (contributed to $25M funding)  
+**Streamoid Technologies** → *Tech Lead - Visual Team*   
 **BMW Group** → *Computer Vision Engineer*  
-**Streamoid Technologies** → *AI Engineer*  
+**Signzy AI** → *Founding Engineer* (contributed to $25M funding) 
 **TVS Motors** → *Software Engineer*
 
 ---
