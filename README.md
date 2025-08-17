@@ -46,10 +46,10 @@ I'm a **Machine Learning Lead** currently working at **explai GmbH**, Germany. W
 
 ### 🏆 Achievements
 
+- 💰 As founding engineer, contributed to $25M in startup funding at Signzy AI
 - 📌 Developed OCR models deployed in top 3 Indian banks
 - 🏅 Featured in [The Economic Times](https://economictimes.indiatimes.com/small-biz/startups/features/signzys-computer-vision-engine-can-process-3-5-million-documents-a-day-banks-are-impressed/articleshow/73025359.cms)
 - 🏆 Alumni of **Google AI Launchpad 2018** & **Facebook AI Innovation Accelerator 2019**
-- 💰 Contributed to $25M in startup funding at Signzy AI
 - 🌍 Deployed 100+ models in production across cloud platforms
 
 ---
