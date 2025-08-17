@@ -43,7 +43,7 @@ Monitoring      Metabase • Kibana • Grafana
 **explai GmbH** → *Current ML Lead*  
 **Streamoid Technologies** → *Tech Lead - Visual Team*   
 **BMW Group** → *Computer Vision Engineer*  
-**Signzy AI** → *Founding Engineer* (contributed to $25M funding) 
+**Signzy AI** → *Founding Engineer* (contributed to $25M funding)
 **TVS Motors** → *Software Engineer*
 
 ---
