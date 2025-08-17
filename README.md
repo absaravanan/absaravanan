@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saravanan A B👋</h1>
 
 <p align="center">
-  <i>ML Lead | LLM & AI Agents | Patent Holder</i><br/>
+  <i>ML Lead | LLM & AI Agents | Computer Vision | Patent Holder</i><br/>
   <a href="mailto:absaravananz@gmail.com">📧 absaravananz@gmail.com</a> • <a href="https://www.linkedin.com/in/saravanan-aadalarasan-bhavani/">LinkedIn</a>
 </p>
 
