@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saravanan A B👋</h1>
 
 <p align="center">
-  <i>ML Lead | LLM & AI Agents | Open Source Contributor | Patent Holder</i><br/>
+  <i>ML Lead | LLM & AI Agents | Patent Holder</i><br/>
   <a href="mailto:absaravananz@gmail.com">📧 absaravananz@gmail.com</a> • <a href="https://www.linkedin.com/in/saravanan-aadalarasan-bhavani/">LinkedIn</a>
 </p>
 
@@ -11,11 +11,11 @@
 
 I'm a **Machine Learning Lead** currently working at **explai GmbH**, Germany. With over **8 years of professional experience** across domains like **fashion tech, computer vision, document intelligence, and autonomous driving**, I specialize in building scalable AI systems and MLOps platforms.
 
-- 👨‍🎓 M.Sc. in Robotics Systems Engineering (AI & ML specialization) from RWTH Aachen University, Germany
+- 👨‍🎓 M.Sc. in Robotics (AI & ML specialization) from RWTH Aachen University, Germany
 - 🎓 B.E. from Anna University, India
 - 📜 US Patent holder in Virtual Reality onboarding systems
 - 🧠 Hands-on with LLMs, VLMs, CLIP, diffusion models, transformers, and CV systems
-- 🌐 Experience across **BMW**, **Signzy AI**, and **TVS Motors**
+- 🌐 Experience across **Streamoid**, **BMW**, **Signzy AI**, and **TVS Motors**
 - 💡 Contributor to AI research, including **AI Agents**, **OCR systems**, and **visual search engines**
 
 ---
