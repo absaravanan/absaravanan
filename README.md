@@ -1,6 +1,6 @@
 # Hi there, I'm Saravanan A B 👋
 
-**ML Lead | LLM & AI Agents | Computer Vision | Patent Holder**
+**Founding Engineer | ML Lead | LLM & AI Agents | Computer Vision | Patent Holder**
 
 [![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-red?style=flat&logo=gmail)](mailto:absaravananz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saravanan-aadalarasan-bhavani/)
 
@@ -9,6 +9,8 @@
 ## 🚀 About Me
 
 Machine Learning Lead at **explai GmbH**, Germany, with **8+ years** of experience building production-scale AI systems across fashion tech, autonomous driving, document intelligence, and computer vision domains.
+
+Previously, as a Founding Engineer at Signzy AI, I played a key role in scaling AI-driven document intelligence systems and enabling $25M+ funding.
 
 **Education & Credentials**
 - 🎓 M.Sc. Robotics (AI & ML) - RWTH Aachen University, Germany
@@ -85,14 +87,13 @@ Monitoring      Metabase • Kibana • Grafana
 - **Agentic AI**: Building autonomous systems that can reason and act
 - **Multimodal LLMs**: Vision-language models and their applications  
 - **MLOps**: Streamlining ML lifecycle from research to production
-- **Open Source**: Contributing to the AI/ML community
 
 ---
 
 ## 🤝 Let's Collaborate
 
 I'm passionate about:
-- 🔬 Open-source AI/ML projects
+- 🔬 Engineering intelligent systems
 - 👥 Mentoring emerging engineers
 - 💡 Experimenting with cutting-edge research
 - 🌍 Building AI solutions with real-world impact
