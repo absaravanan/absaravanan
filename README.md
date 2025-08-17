@@ -29,7 +29,7 @@ Previously, as a Founding Engineer at Signzy AI, I played a key role in scaling 
 ```
 Languages        Python • C++
 AI/ML           LLMs (LLaMA, GPT) • CLIP • Diffusion Models • Transformers • GANs
-Frameworks      PyTorch • LangChain • LangGraph • FastAPI • Hugging Face
+Frameworks      PyTorch • LangChain • LangGraph • FastAPI 
 Data Pipeline   Dagster • Airbyte • Kafka • Redis
 Cloud & DevOps  AWS • GCP • Azure • Docker • Kubernetes
 Databases       MongoDB • MySQL • Snowflake • ElasticSearch
