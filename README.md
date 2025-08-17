@@ -40,11 +40,12 @@ Monitoring      Metabase • Kibana • Grafana
 
 ## 💼 Professional Experience
 
-**explai GmbH** → *Founding engineer - ML Lead*  
-**Streamoid Technologies** → *Tech Lead - Visual Team*   
-**BMW Group** → *Computer Vision Engineer*  
-**Signzy AI** → *Founding AI Engineer*  
-**TVS Motors → *Software Engineer*  
+- **explai GmbH** → *Founding Engineer - ML Lead*  
+- **Streamoid Technologies** → *Tech Lead - Visual Team*  
+- **BMW Group** → *Computer Vision Engineer*  
+- **Signzy AI** → *Founding AI Engineer*  
+- **TVS Motors** → *Software Engineer*
+
 ---
 
 ## 🔬 Key Projects & Innovations
