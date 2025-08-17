@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Machine Learning Lead at **explai GmbH**, Germany, with **8+ years** of experience building production-scale AI systems across fashion tech, autonomous driving, document intelligence, and computer vision domains.
+ML Lead at **explai GmbH**, Germany, with **8+ years** of experience building production-scale AI systems across fashion tech, autonomous driving, document intelligence, and computer vision domains.
 
 Previously, as a Founding Engineer at Signzy AI, I played a key role in scaling AI-driven document intelligence systems and enabling $25M+ funding.
 
