@@ -33,7 +33,7 @@
 ## Engineering Focus
 
 ```text
-LLMs & Agents       LangGraph, LangChain, multi-agent systems, RAG, tool use, structured outputs
+LLMs & Agents       Agent harness, LangGraph, LangChain, multi-agent systems, Memory, RAG, tool use
 LLMOps & Eval       Langfuse, golden-set evaluation, LLM-as-judge, tracing, latency metrics
 ML & Vision         PyTorch, Transformers, Llama, PaliGemma, CLIP, Stable Diffusion, OCR, NER
 Engineering         Python, C++, TypeScript, FastAPI, Docker, Kubernetes, React, Next.js
@@ -57,13 +57,20 @@ Pipelines           Dagster, Airbyte, Metabase, Plotly, Elasticsearch
 
 ## Experience
 
-| Company | Role | Work |
-| --- | --- | --- |
-| **explai GmbH** | Founding Engineer, AI Agents & LLM | Building a LangGraph-based analytics platform with agent orchestration, RAG, SQL tools, evals, and Langfuse observability. |
-| **Streamoid** | Senior Research Engineer, Generative AI & ML | Shipped fashion AI systems for product content, visual search, cataloging, recommendations, and diffusion-based product imagery. |
-| **BMW Group** | AI Student Researcher, Computer Vision & MLOps | Built anomaly-detection and quality-inspection pipelines for manufacturing, including Azure deployment and robot integration. |
-| **Signzy AI** | Tech Lead, Computer Vision & AI | Led OCR, KYC, face verification, liveness, and document intelligence systems for banking-scale identity workflows. |
-| **TVS Motor Company** | Software Developer, Image Processing | Developed visual inspection and navigation algorithms for manufacturing automation and quality traceability. |
+**explai GmbH** - Founding Engineer, AI Agents & LLM  
+Building a LangGraph-based analytics platform with agent orchestration, Memory, RAG, SQL tools, evals, and Langfuse observability.
+
+**Streamoid** - Senior Research Engineer, Generative AI & ML  
+Shipped fashion AI systems for product content, visual search, cataloging, recommendations, and diffusion-based product imagery.
+
+**BMW Group** - AI Student Researcher, Computer Vision & MLOps  
+Built anomaly-detection and quality-inspection pipelines for manufacturing, including Azure deployment and robot integration.
+
+**Signzy AI** - Tech Lead, Computer Vision & AI  
+Led OCR, KYC, face verification, liveness, and document intelligence systems for banking-scale identity workflows.
+
+**TVS Motor Company** - Software Developer, Image Processing  
+Developed visual inspection and navigation algorithms for manufacturing automation and quality traceability.
 
 ---
 
