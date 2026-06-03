@@ -57,11 +57,13 @@ Pipelines           Dagster, Airbyte, Metabase, Plotly, Elasticsearch
 
 ## Experience
 
-- **explai GmbH** - Founding Engineer, AI Agents & LLM
-- **Streamoid** - Senior Research Engineer, Generative AI & ML
-- **BMW Group** - AI Student Researcher, Computer Vision & MLOps
-- **Signzy AI** - Tech Lead, Computer Vision & AI
-- **TVS Motor Company** - Software Developer, Image Processing
+| Company | Role | Work |
+| --- | --- | --- |
+| **explai GmbH** | Founding Engineer, AI Agents & LLM | Building a LangGraph-based analytics platform with agent orchestration, RAG, SQL tools, evals, and Langfuse observability. |
+| **Streamoid** | Senior Research Engineer, Generative AI & ML | Shipped fashion AI systems for product content, visual search, cataloging, recommendations, and diffusion-based product imagery. |
+| **BMW Group** | AI Student Researcher, Computer Vision & MLOps | Built anomaly-detection and quality-inspection pipelines for manufacturing, including Azure deployment and robot integration. |
+| **Signzy AI** | Tech Lead, Computer Vision & AI | Led OCR, KYC, face verification, liveness, and document intelligence systems for banking-scale identity workflows. |
+| **TVS Motor Company** | Software Developer, Image Processing | Developed visual inspection and navigation algorithms for manufacturing automation and quality traceability. |
 
 ---
 
