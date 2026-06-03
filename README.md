@@ -1,14 +1,8 @@
 <div align="center">
   <h2>Daily Coding Activity</h2>
-  <p><strong>Consistent commits and engineering momentum throughout the year</strong></p>
+  <p><strong>Full-year GitHub contribution calendar</strong></p>
   <a href="https://github.com/absaravanan">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=absaravanan&bg_color=0d1117&color=f0f6fc&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=Contribution%20Activity" alt="High-contrast GitHub contribution activity graph for Saravanan A B" />
-  </a>
-  <br />
-  <br />
-  <p><strong>Full-year contribution calendar</strong></p>
-  <a href="https://github.com/absaravanan">
-    <img width="100%" src="https://ghchart.rshah.org/00e676/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
+    <img width="100%" src="https://ssr-contributions-svg.vercel.app/_/absaravanan?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&format=svg" alt="Full-year GitHub contribution calendar for Saravanan A B" />
   </a>
 </div>
 
