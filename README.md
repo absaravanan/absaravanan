@@ -1,6 +1,8 @@
 <div align="center">
+  <h2>Daily Coding Activity</h2>
+  <p><strong>Full-year GitHub contribution calendar</strong></p>
   <a href="https://github.com/absaravanan">
-    <img src="https://ghchart.rshah.org/absaravanan" alt="Full-year GitHub contribution calendar" />
+    <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
   </a>
 </div>
 
