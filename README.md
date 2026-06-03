@@ -8,7 +8,7 @@
 
 ---
 
-## Daily Coding Activity<
+## Coding Activity
 
 <div align="center">
   <a href="https://github.com/absaravanan">
