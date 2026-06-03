@@ -8,8 +8,9 @@
 
 ---
 
+## Daily Coding Activity<
+
 <div align="center">
-  <h2>Daily Coding Activity</h2>
   <a href="https://github.com/absaravanan">
     <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
   </a>
