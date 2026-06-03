@@ -17,19 +17,16 @@
 
 ---
 
-## About
+## Snapshot
 
-I build AI products that move from research to production. My recent work focuses on LangGraph-based multi-agent analytics systems, LLM evaluation, tracing, tool orchestration, RAG, and human-in-the-loop workflows.
-
-Currently, I am a **Founding Engineer - AI Agents & LLM at explai GmbH**, where I work on an agentic analytics platform deployed to enterprise customers on AWS. Previously, I led computer vision and document intelligence work at **Signzy AI**, building OCR, KYC, face verification, and ML infrastructure used by major Indian banks.
-
-Highlights:
-
-- 8+ years building production AI systems across LLM agents, document intelligence, fashion AI, autonomous driving, and industrial computer vision.
-- Deployed an agentic analytics platform to AstraZeneca on AWS for 100 enterprise licenses.
-- Led an 8+ member ML team at Signzy AI and supported 300K+ daily verification requests.
-- Built OCR/CV systems trained on 2M+ proprietary document images and deployed for India's top-3 banks.
-- US patent holder for VR/AR-based user onboarding; Google AI Launchpad and Facebook AI Innovation Accelerator alumnus.
+| | |
+| --- | --- |
+| Current | Founding Engineer - AI Agents & LLM at **explai GmbH** |
+| Focus | LLM agents, evals, RAG, MLOps, computer vision |
+| Scale | AstraZeneca deployment, 100 enterprise licenses |
+| Previous | Led CV/OCR systems at **Signzy AI** for top Indian banks |
+| Impact | 300K+ daily verifications, 100+ production ML models |
+| Recognition | US patent, Google AI Launchpad, Facebook AI Accelerator |
 
 ---
 
@@ -46,27 +43,15 @@ Pipelines           Dagster, Airbyte, Metabase, Plotly, Elasticsearch
 
 ---
 
-## Selected Systems
+## Selected Work
 
-**Agentic analytics platform**
-
-- Architected multi-step analysis workflows over enterprise tables, documents, and charts.
-- Built database-backed agents with prompt versioning, tool permissions, supervisor routing, subgraphs, checkpointed state, and human-in-the-loop resume flows.
-- Developed tools for SQL generation and execution, table profiling, statistical analysis, Plotly visualization, document RAG, semantic memory, web search, Python execution, and Snowflake ingestion.
-- Implemented golden-set evaluation with async workers, LLM/fact-based scoring, output validation, tool metrics, latency metrics, and Langfuse trace links.
-
-**Document intelligence and identity verification**
-
-- Built OCR pipelines for text detection, text recognition, and layout detection on 2M+ proprietary document images.
-- Developed face detection, face recognition, liveness, pose estimation, image-quality, photoshop-detection, and document-classification models for financial authentication.
-- Designed ML infrastructure across 20+ GPU/CPU servers and 30+ REST API microservices on AWS, GCP, and Azure.
-
-**Fashion and e-commerce AI**
-
-- Fine-tuned Llama with PEFT/LoRA for fashion product titles and descriptions, reducing manual curation effort by 30%.
-- Fine-tuned CLIP embeddings for visual/text product search across 1M+ products.
-- Built PaliGemma and ConvNeXt/Transformer cataloging models, with 100+ production model deployments on GCP Cloud Run.
-- Implemented virtual product photoshoot workflows using Stable Diffusion, DreamBooth, and textual inversion.
+| Area | Systems Built |
+| --- | --- |
+| Agentic analytics | LangGraph agents, SQL tools, RAG, Snowflake ingestion, Plotly artifacts, human-in-the-loop workflows |
+| LLMOps | Golden-set evals, LLM-as-judge, structured outputs, Langfuse tracing, latency/tool metrics |
+| Document AI | OCR, layout detection, KYC parsing, face verification, liveness, document classification |
+| Fashion AI | CLIP search, Llama content generation, PaliGemma classification, Stable Diffusion photoshoots |
+| MLOps | Docker/Kubernetes deployments, 30+ ML APIs, GPU/CPU infra across AWS, GCP, Azure |
 
 ---
 
