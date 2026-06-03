@@ -1,10 +1,3 @@
-<div align="center">
-  <h2>Daily Coding Activity</h2>
-  <a href="https://github.com/absaravanan">
-    <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
-  </a>
-</div>
-
 ---
 
 # Saravanan Aadalarasan Bhavani
@@ -14,6 +7,15 @@
 [![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-red?style=flat&logo=gmail)](mailto:absaravananz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saravanan-ab-bb781aa3/)
 [![GitHub](https://img.shields.io/badge/GitHub-absaravanan-black?style=flat&logo=github)](https://github.com/absaravanan)
+
+---
+
+<div align="center">
+  <h2>Daily Coding Activity</h2>
+  <a href="https://github.com/absaravanan">
+    <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
+  </a>
+</div>
 
 ---
 
