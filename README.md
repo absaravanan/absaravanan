@@ -1,6 +1,6 @@
 # Hi there, I'm Saravanan A B 👋
 
-**Founding Engineer | ML Lead | LLM & AI Agents | Computer Vision | Patent Holder**
+**Founding Engineer | Principal AI Engineer | LLM & AI Agents | Computer Vision | Patent Holder**
 
 [![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-red?style=flat&logo=gmail)](mailto:absaravananz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saravanan-a-bb781aa3/)
 
