@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/absaravanan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=absaravanan&theme=github-compact&hide_border=true&area=true&custom_title=Daily%20Coding%20Activity" alt="Daily coding activity graph" />
+    <img src="https://ghchart.rshah.org/absaravanan" alt="Full-year GitHub contribution calendar" />
   </a>
 </div>
 
