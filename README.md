@@ -1,5 +1,3 @@
----
-
 # Saravanan Aadalarasan Bhavani
 
 **Founding / Principal AI Engineer** specializing in LLM agents, production MLOps, computer vision, and applied machine learning systems.
