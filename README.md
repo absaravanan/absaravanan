@@ -1,119 +1,100 @@
 <div align="center">
   <h2>Daily Coding Activity</h2>
-  <p><strong>Full-year GitHub contribution calendar</strong></p>
   <a href="https://github.com/absaravanan">
-    <img width="100%" src="https://ssr-contributions-svg.vercel.app/_/absaravanan?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&format=svg" alt="Full-year GitHub contribution calendar for Saravanan A B" />
+    <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar for Saravanan A B" />
   </a>
 </div>
 
 ---
 
-# Hi there, I'm Saravanan A B 👋
+# Saravanan Aadalarasan Bhavani
 
-**Founding Engineer | Principal AI Engineer | LLM & AI Agents | Computer Vision | Patent Holder**
+**Founding / Principal AI Engineer** specializing in LLM agents, production MLOps, computer vision, and applied machine learning systems.
 
-[![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-red?style=flat&logo=gmail)](mailto:absaravananz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saravanan-a-bb781aa3/)
-
----
-
-## 🚀 About Me
-
-Principal AI Engineer at **explai GmbH**, Germany, with **8+ years** of experience building production-scale AI systems across fashion tech, autonomous driving, document intelligence, and computer vision domains.
-
-Previously, as a Founding Engineer at Signzy AI, I played a key role in scaling AI-driven document intelligence systems and enabling $25M+ funding.
-
-**Education & Credentials**
-- 🎓 M.Sc. Robotics (AI & ML) - RWTH Aachen University, Germany
-- 🎓 B.E. - Anna University, India  
-- 📜 US Patent holder in Virtual Reality onboarding systems
-
-**Current Focus**
-- 🤖 Developing intelligent AI agents for data analytics workflows
-- 🔬 LLM fine-tuning and multi-modal system architectures
-- 🏗️ Scalable MLOps platform design and deployment
+[![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-red?style=flat&logo=gmail)](mailto:absaravananz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saravanan-ab-bb781aa3/)
+[![GitHub](https://img.shields.io/badge/GitHub-absaravanan-black?style=flat&logo=github)](https://github.com/absaravanan)
 
 ---
 
-## 🛠️ Technical Stack
+## About
 
+I build AI products that move from research to production. My recent work focuses on LangGraph-based multi-agent analytics systems, LLM evaluation, tracing, tool orchestration, RAG, and human-in-the-loop workflows.
+
+Currently, I am a **Founding Engineer - AI Agents & LLM at explai GmbH**, where I work on an agentic analytics platform deployed to enterprise customers on AWS. Previously, I led computer vision and document intelligence work at **Signzy AI**, building OCR, KYC, face verification, and ML infrastructure used by major Indian banks.
+
+Highlights:
+
+- 8+ years building production AI systems across LLM agents, document intelligence, fashion AI, autonomous driving, and industrial computer vision.
+- Deployed an agentic analytics platform to AstraZeneca on AWS for 100 enterprise licenses.
+- Led an 8+ member ML team at Signzy AI and supported 300K+ daily verification requests.
+- Built OCR/CV systems trained on 2M+ proprietary document images and deployed for India's top-3 banks.
+- US patent holder for VR/AR-based user onboarding; Google AI Launchpad and Facebook AI Innovation Accelerator alumnus.
+
+---
+
+## Engineering Focus
+
+```text
+LLMs & Agents       LangGraph, LangChain, multi-agent systems, RAG, tool use, structured outputs
+LLMOps & Eval       Langfuse, golden-set evaluation, LLM-as-judge, tracing, latency metrics
+ML & Vision         PyTorch, Transformers, Llama, PaliGemma, CLIP, Stable Diffusion, OCR, NER
+Engineering         Python, C++, TypeScript, FastAPI, Docker, Kubernetes, React, Next.js
+Cloud & Data        AWS, GCP, Azure, Snowflake, PostgreSQL, pgvector, MongoDB, Redis, Kafka
+Pipelines           Dagster, Airbyte, Metabase, Plotly, Elasticsearch
 ```
-Languages        Python • C++
-AI/ML           LLMs (LLaMA, GPT) • CLIP • Diffusion Models • Transformers • GANs
-Frameworks      PyTorch • LangChain • LangGraph • FastAPI 
-Data Pipeline   Dagster • Airbyte • Kafka • Redis
-Cloud & DevOps  AWS • GCP • Azure • Docker • Kubernetes
-Databases       MongoDB • MySQL • Snowflake • ElasticSearch
-Monitoring      Metabase • Kibana • Grafana
-```
 
 ---
 
-## 💼 Professional Experience
+## Selected Systems
 
-- **explai GmbH** → *Founding Engineer - ML Lead*  
-- **Streamoid Technologies** → *Tech Lead - Visual Team*  
-- **BMW Group** → *Computer Vision Engineer*  
-- **Signzy AI** → *Founding AI Engineer*  
-- **TVS Motors** → *Software Engineer*
+**Agentic analytics platform**
 
----
+- Architected multi-step analysis workflows over enterprise tables, documents, and charts.
+- Built database-backed agents with prompt versioning, tool permissions, supervisor routing, subgraphs, checkpointed state, and human-in-the-loop resume flows.
+- Developed tools for SQL generation and execution, table profiling, statistical analysis, Plotly visualization, document RAG, semantic memory, web search, Python execution, and Snowflake ingestion.
+- Implemented golden-set evaluation with async workers, LLM/fact-based scoring, output validation, tool metrics, latency metrics, and Langfuse trace links.
 
-## 🔬 Key Projects & Innovations
+**Document intelligence and identity verification**
 
-**🤖 AI Agent Systems**
-- Multi-agent frameworks using LangGraph for automated data analysis
-- Proactive insight generation for business intelligence platforms
+- Built OCR pipelines for text detection, text recognition, and layout detection on 2M+ proprietary document images.
+- Developed face detection, face recognition, liveness, pose estimation, image-quality, photoshop-detection, and document-classification models for financial authentication.
+- Designed ML infrastructure across 20+ GPU/CPU servers and 30+ REST API microservices on AWS, GCP, and Azure.
 
-**👗 Fashion & E-commerce AI**
-- Visual search engines processing millions of product images
-- Virtual photoshoot generation using diffusion models
-- Real-time fashion cataloging and recommendation systems
+**Fashion and e-commerce AI**
 
-**📄 Document Intelligence**
-- OCR models deployed across India's top 3 banks
-- High-throughput document processing (3.5M docs/day capability)
-- Multi-language document understanding systems
-
-**🔍 Computer Vision Systems**
-- Background segmentation optimized for fashion datasets
-- Real-time object detection for autonomous driving applications
-- Custom model architectures for specialized visual tasks
+- Fine-tuned Llama with PEFT/LoRA for fashion product titles and descriptions, reducing manual curation effort by 30%.
+- Fine-tuned CLIP embeddings for visual/text product search across 1M+ products.
+- Built PaliGemma and ConvNeXt/Transformer cataloging models, with 100+ production model deployments on GCP Cloud Run.
+- Implemented virtual product photoshoot workflows using Stable Diffusion, DreamBooth, and textual inversion.
 
 ---
 
-## 🏆 Impact & Recognition
+## Experience
 
-- 🏅 **Featured in [The Economic Times](https://economictimes.indiatimes.com/small-biz/startups/features/signzys-computer-vision-engine-can-process-3-5-million-documents-a-day-banks-are-impressed/articleshow/73025359.cms)** for innovative document processing solutions
-- 🚀 **Google AI Launchpad 2018** Alumni
-- 🔥 **Facebook AI Innovation Accelerator 2019** Alumni  
-- ⚡ **100+ ML models** deployed in production environments
-- 💰 **$25M+ funding** enabled through technical contributions as founding engineer
-
-
----
-
-## 🌱 Current Interests
-
-- **Agentic AI**: Building autonomous systems that can reason and act
-- **Multimodal LLMs**: Vision-language models and their applications  
-- **MLOps**: Streamlining ML lifecycle from research to production
+- **explai GmbH** - Founding Engineer, AI Agents & LLM
+- **Streamoid** - Senior Research Engineer, Generative AI & ML
+- **BMW Group** - AI Student Researcher, Computer Vision & MLOps
+- **Signzy AI** - Tech Lead, Computer Vision & AI
+- **TVS Motor Company** - Software Developer, Image Processing
 
 ---
 
-## 🤝 Let's Collaborate
+## Education
 
-I'm passionate about:
-- 🔬 Engineering intelligent systems
-- 👥 Mentoring emerging engineers
-- 💡 Experimenting with cutting-edge research
-- 🌍 Building AI solutions with real-world impact
-
-**Get in touch:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/saravanan-aadalarasan-bhavani/)
-- 📧 [Email](mailto:absaravananz@gmail.com)
+- **RWTH Aachen University** - M.Sc. Robotics Systems Engineering, specialization in AI & ML
+- **Anna University** - Bachelor of Engineering
 
 ---
 
-<div align="center">
-  <i>"Building the future, one model at a time"</i>
-</div>
+## Recognition
+
+- [Featured by The Economic Times](https://economictimes.indiatimes.com/small-biz/startups/features/signzys-computer-vision-engine-can-process-3-5-million-documents-a-day-banks-are-impressed/articleshow/73025359.cms?from=mdr) for Signzy's document-classification and computer-vision engine.
+- Selected for [Google AI Launchpad 2018](https://india.googleblog.com/2018/08/meet-first-class-of-launchpad.html/).
+- Selected for Facebook India Innovation Accelerator 2019.
+- Granted **US 11270509B2** for VR/AR-based user onboarding.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/saravanan-ab-bb781aa3](https://www.linkedin.com/in/saravanan-ab-bb781aa3/)
+- Email: [absaravananz@gmail.com](mailto:absaravananz@gmail.com)
