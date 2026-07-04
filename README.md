@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🧠 **Founding Engineer, AI Agents & LLM** at **explai GmbH** — LangGraph-based analytics platform with agent orchestration, memory, RAG, SQL tools, evals, and Langfuse observability
-- 🏢 Shipped to **AstraZeneca** and 100 enterprise licenses
+- 🏢 Shipped to **AstraZeneca**
 - 🏦 Previously led CV/OCR systems at **Signzy AI** for top Indian banks — **300K+ daily verifications**, **100+ production ML models**
 - 🏆 **US patent** holder · **Google AI Launchpad** · **Facebook AI Accelerator**
 - 🎓 M.Sc. Robotics Systems Engineering (AI & ML) — **RWTH Aachen University**
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=absaravanan&theme=transparent" alt="Profile details" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=absaravanan&bg_color=transparent&color=808080&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" alt="Contribution activity graph" />
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=absaravanan&theme=transparent" alt="Top languages by repo" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absaravanan&theme=transparent" alt="Top languages by commit" />
@@ -104,7 +104,7 @@
 <details open>
 <summary><b>explai GmbH</b> — Founding Engineer, AI Agents & LLM <em>(current)</em></summary>
 <br/>
-Building a LangGraph-based analytics platform with agent orchestration, Memory, RAG, SQL tools, evals, and Langfuse observability. Deployed at AstraZeneca with 100 enterprise licenses.
+Building a LangGraph-based analytics platform with agent orchestration, Memory, RAG, SQL tools, evals, and Langfuse observability. Deployed at AstraZeneca.
 </details>
 
 <details>
