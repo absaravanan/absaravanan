@@ -4,7 +4,7 @@
 
 **Founding / Principal AI Engineer** — building LLM agents, production MLOps, and applied ML systems at scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-ab-bb781aa3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-a-bb781aa3/)
 [![Email](https://img.shields.io/badge/Email-absaravananz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absaravananz@gmail.com)
 [![Patent](https://img.shields.io/badge/US_Patent-11270509B2-6f42c1?style=for-the-badge&logo=googlescholar&logoColor=white)](https://patents.google.com/patent/US11270509B2)
 ![Profile views](https://komarev.com/ghpvc/?username=absaravanan&style=for-the-badge&color=39d353)
@@ -94,10 +94,6 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absaravanan&theme=transparent" alt="Top languages by commit" />
 
 <img src="https://streak-stats.demolab.com?user=absaravanan&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<a href="https://github.com/absaravanan">
-  <img width="100%" src="https://ghchart.rshah.org/39d353/absaravanan" alt="Full-year GitHub contribution calendar" />
-</a>
 
 </div>
 
