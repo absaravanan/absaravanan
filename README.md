@@ -84,16 +84,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=absaravanan&bg_color=transparent&color=808080&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" alt="Contribution activity graph" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=absaravanan&theme=transparent" alt="Top languages by repo" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absaravanan&theme=transparent" alt="Top languages by commit" />
-
-<img src="https://streak-stats.demolab.com?user=absaravanan&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
